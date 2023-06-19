@@ -1,7 +1,3 @@
-# AI 534 - Solo Assignment
-# AI1 skeleton code
-# By Bharghav Srikhakollu
-
 from ast import Num
 import numpy as np
 import pandas as pd
